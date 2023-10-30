@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "848164697907",
+    "firebase_url": "https://enviomedicamentos-4b853-default-rtdb.firebaseio.com",
+    "project_id": "enviomedicamentos-4b853",
+    "storage_bucket": "enviomedicamentos-4b853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848164697907:android:babbaa219bf17216797046",
+        "android_client_info": {
+          "package_name": "com.example.enviomedicamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848164697907-l3ondf958jqks2bqm07n694ja4tmj8qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41xl0QvEibdM4wqSEFBQpxGe6XSOPpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848164697907-l3ondf958jqks2bqm07n694ja4tmj8qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848164697907-dnflloh2r0k32iq637lvj1bif9gn7h6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enviomedicamentos"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848164697907:android:d5905b9958bea0cf797046",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848164697907-l3ondf958jqks2bqm07n694ja4tmj8qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD41xl0QvEibdM4wqSEFBQpxGe6XSOPpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848164697907-l3ondf958jqks2bqm07n694ja4tmj8qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848164697907-dnflloh2r0k32iq637lvj1bif9gn7h6o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enviomedicamentos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
